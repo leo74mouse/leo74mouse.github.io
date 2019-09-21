@@ -9,11 +9,10 @@
 
 <h2>Work Experiance</h2>
 
-<h3>Midwest Glass and Glazing</h3>
+<h3>Midwest Glass and Glazing</h3><img src="https://geo3.ggpht.com/cbk?panoid=fifFPap3SzTrMFU0trACIQ&output=thumbnail&cb_client=search.LOCAL_UNIVERSAL.gps&thumb=2&yaw=71.45648&pitch=0&thumbfov=100&w=293&h=79.jpg"/>
 <p>Fabricator 10/2019-07/2019
   
   Fabrication of commercial window and door frames</p>
-
 <h3>Sheraton-Weston Crown Center</h3>
 <p>PBX Supervisor 02/2018-08/2018
   
