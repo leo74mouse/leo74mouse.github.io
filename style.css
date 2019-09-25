@@ -5,6 +5,7 @@ h3 {
   color: blue;
 }
 div {
+  border: 1px solid black;
   padding-top: 50px;
   padding-right: 30px;
   padding-bottom: 50px;
