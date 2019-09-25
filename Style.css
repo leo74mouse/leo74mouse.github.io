@@ -1,5 +1,8 @@
 body
 p {
 background-color; yellow 
-header 3 color= blue; italic
 } 
+header 3
+p {
+  color= blue; italic
+}
